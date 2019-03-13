@@ -12,7 +12,7 @@ Contoso Finance is one of the largest banks in the United States with a signific
 
 ### Workshop
 
-In this workshop, you will learn how to design a hybrid cloud architecture using a combination of the Azure public cloud and Azure Stack. This functional architecture will enable customers to leverage their investments in Azure as a "cloud platform," rather than Azure as a "place." You will learn to determine which systems are good candidates for the Azure public cloud and which are better suited on Azure Stack.
+In this fun workshop, you will learn how to design a hybrid cloud architecture using a combination of the Azure public cloud and Azure Stack. This functional architecture will enable customers to leverage their investments in Azure as a "cloud platform," rather than Azure as a "place." You will learn to determine which systems are good candidates for the Azure public cloud and which are better suited on Azure Stack.
 
 At the end of this workshop, you will be better able to recommend and design hybrid cloud systems that leverage one application and deployment model, Azure.
 
