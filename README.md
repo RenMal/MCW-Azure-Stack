@@ -1,6 +1,6 @@
 # Azure Stack
 
-Contoso Finance LLC is one of the largest banks in the United States with a significant amount of their revenue coming from their residential mortgage business. As part of Contoso's shift to a cloud first strategy they planning to migrate their loan web applications to a hybrid cloud solution. During the planning stages, Contoso realized they would not be able to retain their customer data in US based Azure regions due to corporate compliance policies and regulatory issues. They have selected Azure Stack as the deployment method to take advantage of Azure technologies while still maintaining compliance.
+Contoso Finance Pty Ltd is one of the largest banks in the Austrailia with a significant amount of their revenue coming from their residential mortgage business. As part of Contoso's shift to a cloud first strategy they planning to migrate their loan web applications to a hybrid cloud solution. During the planning stages, Contoso realized they would not be able to retain their customer data in US based Azure regions due to corporate compliance policies and regulatory issues. They have selected Azure Stack as the deployment method to take advantage of Azure technologies while still maintaining compliance.
 
 # Target Audience
 
@@ -10,7 +10,7 @@ Contoso Finance LLC is one of the largest banks in the United States with a sign
 
 ## Abstract 
 
-### Workshop (HX)
+### Workshop 
 
 In this fun workshop, you will learn how to design a hybrid cloud architecture using a combination of the Azure public cloud and Azure Stack. This functional architecture will enable customers to leverage their investments in Azure as a "cloud platform," rather than Azure as a "place." You will learn to determine which systems are good candidates for the Azure public cloud and which are better suited on Azure Stack.
 
